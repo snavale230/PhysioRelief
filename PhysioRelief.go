@@ -4,7 +4,6 @@ import (
 	"PhysioRelief/helpers"
 
 	"github.com/rs/zerolog/log"
-	"github.com/spf13/viper"
 )
 
 func main() {
